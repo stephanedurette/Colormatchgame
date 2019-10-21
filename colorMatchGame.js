@@ -1,3 +1,4 @@
+//something
 var colorDisplay = document.querySelector("h1 span");
 var squares = document.querySelectorAll(".square");
 var messageDisplay = document.querySelector("#message");
